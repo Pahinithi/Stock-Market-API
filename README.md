@@ -20,7 +20,7 @@ This is a FastAPI-based application that provides stock market data using the Al
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stock-market-api.git
+    git clone https://github.com/Pahinithi/Stock-Market-API.git
     cd stock-market-api
     ```
 
